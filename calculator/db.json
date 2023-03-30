@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typi-code"
+    },
+    {
+      "title": "frontend developer",
+      "author": "chandana",
+      "id": 2
+    },
+    {
+      "title": "full stack developer",
+      "author": "chandu",
+      "id": 3
+    },
+    {
+      "title": "sales force developer",
+      "author": "sravya",
+      "id": 5
+    },
+    {
+      "title": "civil engineering",
+      "author": "chandana ",
+      "id": 6
+    },
+    {
+      "title": "chandana@gmail.com",
+      "author": "chandu",
+      "id": 7
+    },
+    {
+      "title": "frontend developer",
+      "author": "durgesh",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "body": "some user",
+      "title": "react class",
+      "author": "chandana",
+      "postId": 1
+    }
+  ],
+  "todoList": [
+    {
+      "id": 1,
+      "task": "some task",
+      "completed": "true"
+    },
+    {
+      "task": "hello",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
