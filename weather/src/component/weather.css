@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+/* .div1 {
+    margin-top: 10%;
+} */
+
+.h1 {
+    color: red;
+    padding-bottom: 10px;
+
+}
+
+button {
+   background-color: blue;
+   
+}
+
+[type="submit"] {
+    margin-left: 5px;
+ 
+}
+
+h1{
+    color: crimson;
+  
+}
